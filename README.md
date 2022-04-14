@@ -2,18 +2,14 @@
 
 # Project Name
 
-> Description the project.
+> In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. Your goal here is to master all of the tools and best practices you learned about in previous steps. You will be using them in all Microverse projects and most likely in your future job as well, so it is important to know them!
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- HTML/CSS
+- Git
+- VS Code
 
 
 ## Getting Started
@@ -25,26 +21,15 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- A browser
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
+## Author
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@MACLENN77](https://github.com/MACLENN77)
+- Twitter: [@SrJuanPapas](https://twitter.com/SRJUANPAPAS)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/juanpaulopereztejada)
 
 👤 **Author2**
 
